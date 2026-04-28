@@ -1,3 +1,4 @@
+鸣谢Oh-my-Claudecode（OMC）、Superpowers、everything-claude-code、planning-with-files、Ralph Loop 等优秀开源项目。此Skill是借鉴这些开源项目，按我自己的实际应用进行整合的。
 ---
 name: team-mode
 description: "Multi-agent coordinated development workflow. Routes dev/debug/deploy tasks through specialized agents with quality gates. TRIGGER when: 开发任务、添加功能、修改代码、实现X、架构分析、设计方案、技术选型、报错、异常、不工作、安全审计、检查漏洞、部署、发布、重构、优化。SKIP: 纯聊天、问答、查询信息、文档阅读、代码解释。"
