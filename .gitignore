@@ -1,0 +1,6 @@
+# Runtime state -- never commit
+.omc/
+
+# OS files
+.DS_Store
+Thumbs.db
